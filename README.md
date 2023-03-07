@@ -7,7 +7,7 @@ A [docker-compose](https://docs.docker.com/compose/) sample to start `Redis` dat
 1. Clone the project:
 
   ```shell
-    $ git clone https://github.com/gaoshanyu/redis-docker-compose.git
+    $ git clone https://github.com/vchain-zone/redis-docker-compose.git
   ```
 
 2. Start `Redis` via [docker-compose](https://docs.docker.com/compose/) in terminal:
